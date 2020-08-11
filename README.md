@@ -1,4 +1,8 @@
-### Hi there 👋
+### About
+
+I am a Google Cloud Certified Professional Data Engineer and a Certified TensorFlow Developer with eight years of experience working in the Finance and IT departments of leading multinational corporations. 
+
+I solve business problems through functional code, beautiful interfaces, and a little bit of magic. I have extensive experience on the end-to-end machine learning workflow, and create fit-for-purpose solutions using OpenCV, Keras, TensorFlow, Pandas, and Scikit-learn.
 
 <!--
 **epanganiban/epanganiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
