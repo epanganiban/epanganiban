@@ -4,8 +4,8 @@ I am a Google Cloud Certified Professional Data Engineer and a Certified TensorF
 
 I solve business problems through functional code, beautiful interfaces, and a little bit of magic. I have extensive experience on the end-to-end machine learning workflow, and create fit-for-purpose solutions using OpenCV, Keras, TensorFlow, Pandas, and Scikit-learn.
 
-### Certifications
-<div style='inline'>
+### Licenses & Certifications
+<div style='display:inline'>
   <a title='View Credential' href='https://www.credential.net/e6ccedda-5b8d-4bc9-a22b-8086ae3dadd3'>
     <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/gcp-data-engineer.png' height='80px'/>
   </a>
@@ -15,16 +15,22 @@ I solve business problems through functional code, beautiful interfaces, and a l
   </a>
 </div>
 
-<ul>
-  <li>NVIDIA Deep Learning Institute - Getting Started with AI on Jetson Nano (Feb 2020)</li>
-  <li>INSEAD - Blockchain Revolution for the Enterprise (Sep 2019)</li>
-  <li>Hanban - 汉语水平考试 Hanyu Shuiping Kaoshi (HSK) / Chinese Proficiency Test - Level 2 (May 2016)</li>
-  <li>Japan Foundation - 日本語能力試験N4 Japanese Language Proficiency Test - Level N4 (Jan 2011)</li>
-  <li>Philippine National IT Standards (PhilNITS) Foundation - IT Professional (Fundamentals of IT Engineering) (Nov 2010)</li>
- </ul>
+- NVIDIA Deep Learning Institute - Getting Started with AI on Jetson Nano (Feb 2020)</li>
+- INSEAD - Blockchain Revolution for the Enterprise (Sep 2019)</li>
+- Hanban - 汉语水平考试 Hanyu Shuiping Kaoshi (HSK) / Chinese Proficiency Test - Level 2 (May 2016)</li>
+- Japan Foundation - 日本語能力試験N4 Japanese Language Proficiency Test - Level N4 (Jan 2011)</li>
+- Philippine National IT Standards (PhilNITS) Foundation - IT Professional (Fundamentals of IT Engineering) (Nov 2010)</li>
 
-### Companies
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/companies.png' style='width:100%' />
+### Career Timeline
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ing-job.png' height='80px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/db-job.png' height='80px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/iccp-job.png' height='80px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/hult-mba.png' height='80px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job3.png' height='80px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job2.png' height='80px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job1.png' height='80px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ittc-cert.png' height='80px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/up-bsap.png' height='80px' />
 
 <!--
 **epanganiban/epanganiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
