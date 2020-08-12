@@ -22,15 +22,15 @@ I solve business problems through functional code, beautiful interfaces, and a l
 - Philippine National IT Standards (PhilNITS) Foundation - IT Professional (Fundamentals of IT Engineering) (Nov 2010)</li>
 
 ### Career Timeline
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ing-job.png' height='80px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/db-job.png' height='80px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/iccp-job.png' height='80px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/hult-mba.png' height='80px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job3.png' height='80px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job2.png' height='80px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job1.png' height='80px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ittc-cert.png' height='80px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/up-bsap.png' height='80px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ing-job.png' height='65px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/db-job.png' height='65px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/iccp-job.png' height='65px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/hult-mba.png' height='65px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job3.png' height='65px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job2.png' height='65px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job1.png' height='65px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ittc-cert.png' height='65px' />
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/up-bsap.png' height='65px' />
 
 <!--
 **epanganiban/epanganiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
