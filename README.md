@@ -26,7 +26,7 @@ I solve business problems through functional code, beautiful interfaces, and a l
   <tr>
     <td>
       <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ing-job.png' height='65px' />
-      <p>I created management reports and near real-time analytics dashboards using Kibana. I used Pandas and Scikit-Learn for exploratory data analysis, outlier detection, and data segmentation. I used OpenCV, Keras and TensorFlow to take on real-world problems in face recognition, image classification, liveness detection, object detection, and optical character recognition.</p>
+      <p>I created management reports and near real-time analytics dashboards using Kibana. I used Pandas and Scikit-Learn for exploratory data analysis, data segmentation and outlier detection. I used OpenCV, Keras and TensorFlow to take on real-world problems in face recognition, optical character recognition, image classification, liveness detection, and object detection.</p>
     </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ I solve business problems through functional code, beautiful interfaces, and a l
   <tr>
     <td>
       <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/iccp-job.png' height='65px' />
-      <p>I got involved in over USD 350M worth of transactions of which about USD 7M got completed. I engaged our corporate clients for financial advisory, liaised with banks and equity investors on raising capital, and provided deal support for Corporate Note Offerings, Term Loan Arrangements, Mergers & Acquisitions (M&A), and Initial Public Offering (IPO) transactions</p>
+      <p>I got involved in over USD 350M worth of transactions of which about USD 7M got completed. I engaged our corporate clients for financial advisory, liaised with banks and equity investors on raising capital, and provided deal support for Corporate Note Offerings, Term Loan Syndication, Mergers & Acquisitions (M&A), and Initial Public Offering (IPO) transactions.</p>
     </td>
   </tr>
   <tr>
