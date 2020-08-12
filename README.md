@@ -15,6 +15,14 @@ I solve business problems through functional code, beautiful interfaces, and a l
   </a>
 </div>
 
+<ul>
+  <li>NVIDIA Deep Learning Institute - Getting Started with AI on Jetson Nano (Feb 2020)</li>
+  <li>INSEAD - Blockchain Revolution for the Enterprise (Sep 2019)</li>
+  <li>Hanban - 汉语水平考试 Hanyu Shuiping Kaoshi (HSK) / Chinese Proficiency Test - Level 2 (May 2016)</li>
+  <li>Japan Foundation - 日本語能力試験N4 Japanese Language Proficiency Test - Level N4 (Jan 2011)</li>
+  <li>Philippine National IT Standards (PhilNITS) Foundation - IT Professional (Fundamentals of IT Engineering) (Nov 2010)</li>
+ </ul>
+
 ### Companies
 <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/companies.png' style='width:100%' />
 
