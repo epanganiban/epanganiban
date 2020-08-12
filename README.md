@@ -5,7 +5,15 @@ I am a Google Cloud Certified Professional Data Engineer and a Certified TensorF
 I solve business problems through functional code, beautiful interfaces, and a little bit of magic. I have extensive experience on the end-to-end machine learning workflow, and create fit-for-purpose solutions using OpenCV, Keras, TensorFlow, Pandas, and Scikit-learn.
 
 ### Certifications
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/certifications.png' style='width:100%' />
+<div style='inline'>
+  <a title='View Credential' href='https://www.credential.net/e6ccedda-5b8d-4bc9-a22b-8086ae3dadd3'>
+    <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/gcp-data-engineer.png' height='90px'/>
+  </a>
+  <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/tensorflow.png' height='90px'/>
+  <a title='View Credential' href='https://courses.nvidia.com/certificates/d27ea5f1d100432394227a808b474831'>
+    <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/dli-cuda_c.png' height='90px'/>
+  </a>
+</div>
 
 ### Companies
 <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/companies.png' style='width:100%' />
