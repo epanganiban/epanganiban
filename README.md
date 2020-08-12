@@ -74,7 +74,7 @@ I solve business problems through functional code, beautiful interfaces, and a l
   <tr>
     <td>
       <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/up-bsap.png' height='65px' />
-      <p>I became part of the Structure and Dynamics (SanD) Group, where I laid out my foundation for my programming skills. I worked on my individual thesis and work for the 27th Samahang Pisika ng Pilipinas Physics Congress entitled ‘Thresholds of percolating systems with two symmetric forbidden zones having a constant separation’ as the Principal Author. </p>
+      <p>I was affiliated with the Structure and Dynamics (SanD) Group, where I laid out my foundation for my programming skills. I worked on my individual thesis and work for the 27th Samahang Pisika ng Pilipinas Physics Congress entitled ‘Thresholds of percolating systems with two symmetric forbidden zones having a constant separation’ as the Principal Author.</p>
     </td>
   </tr>
 </table>
