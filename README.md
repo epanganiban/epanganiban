@@ -22,15 +22,63 @@ I solve business problems through functional code, beautiful interfaces, and a l
 - Philippine National IT Standards (PhilNITS) Foundation - IT Professional (Fundamentals of IT Engineering) (Nov 2010)</li>
 
 ### Career Timeline
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ing-job.png' height='65px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/db-job.png' height='65px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/iccp-job.png' height='65px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/hult-mba.png' height='65px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job3.png' height='65px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job2.png' height='65px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job1.png' height='65px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ittc-cert.png' height='65px' />
-<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/up-bsap.png' height='65px' />
+<table>
+  <tr>
+    <td>
+      <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ing-job.png' height='65px' />
+      <p>I created management reports and near real-time analytics dashboards using Kibana. I used Pandas and Scikit-Learn for exploratory data analysis, outlier detection, and data segmentation. I used OpenCV, Keras and TensorFlow to take on real-world problems in face recognition, image classification, liveness detection, object detection, and optical character recognition.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/db-job.png' height='65px' />
+      <p>I conducted analyses on FX4Cash payment spreads, electronic FX trading systems architecture, and market data availability for illiquid currencies. I worked on the Python proof-of-concepts (PoCs) for Market Conformity Control's FX Spot, Forward and Swap Methodology. Finally, I worked on the preliminary design for standardized MI reports created using Tableau.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/iccp-job.png' height='65px' />
+      <p>I got involved in over USD 350M worth of transactions of which about USD 7M got completed. I engaged our corporate clients for financial advisory, liaised with banks and equity investors on raising capital, and provided deal support for Corporate Note Offerings, Term Loan Arrangements, Mergers & Acquisitions (M&A), and Initial Public Offering (IPO) transactions</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/hult-mba.png' height='65px' />
+      <p>I graduated with distinction from my MBA, where I elected to pursue electives related to Entrepreneurial Finance. I participated in weekend hackathons like the Intel Challenge, the TechStars-organized Shanghai Startup Weekend and the intracampus Bosch Strategy Challenge. Finally I interned at AngelVest, a Shanghai-based angel investment fund.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job3.png' height='65px' />
+      <p>I worked as my team's primary liaison for the extract-transform-load (ETL) and data migration effort for the Bibiyana Expansion Project in Dhaka, Bangladesh. I coordinated JDE Enterprise Asset Management enhancements from other locations, documented and managed the requirements for incident/change management processes, and led several company initiatives.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job2.png' height='65px' />
+      <p>I spearheaded the development of 25 knowledge management sites by leading a diverse team of developers (US, Buenos Aires, Manila and India) in Houston, TX. I saved the project from an eight-month delay and procured a US L-1 visa to ensure compliance with local work regulations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job1.png' height='65px' />
+      <p>I augmented out-of-the-box (OOTB) components and built custom-code solutions using the SharePoint technology stack (SharePoint, InfoPath & Designer). I promoted SharePoint best practices to my organization by leading the efforts on a SharePoint knowledge base site, and became one of the subject-matter experts in my organization for SharePoint.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/ittc-cert.png' height='65px' />
+      <p>I'm the Top of the Graduating Class of 2011, and the Server and Integration Team Lead for the class project entitled "Text and Video Conference using the KZM ARM 11 01." I specialized in electives related to developing applications for mobile and embedded systems. I also received formal Japanese language instruction in addition to my IT courses.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/up-bsap.png' height='65px' />
+      <p>I became part of the Structure and Dynamics (SanD) Group, where I laid out my foundation for my programming skills. I worked on my individual thesis and work for the 27th Samahang Pisika ng Pilipinas Physics Congress entitled ‘Thresholds of percolating systems with two symmetric forbidden zones having a constant separation’ as the Principal Author. </p>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **epanganiban/epanganiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
