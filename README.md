@@ -62,7 +62,7 @@ I solve business problems through functional code, beautiful interfaces, and a l
   <tr>
     <td>
       <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/cvx-job1.png' height='65px' />
-      <p>I augmented out-of-the-box (OOTB) components and built custom-code solutions using the SharePoint technology stack (SharePoint, InfoPath & Designer). I promoted SharePoint best practices to my organization by leading the efforts on a SharePoint knowledge base site, and became one of the subject-matter experts in my organization for SharePoint.</p>
+      <p>I augmented out-of-the-box (OOTB) components and built custom-code solutions using the SharePoint technology stack (SharePoint, InfoPath & Designer). I promoted SharePoint best practices to my organization by leading the efforts on a SharePoint knowledge base site, and became one of the subject-matter experts for SharePoint.</p>
     </td>
   </tr>
   <tr>
