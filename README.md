@@ -4,7 +4,10 @@ I am a Google Cloud Certified Professional Data Engineer and a Certified TensorF
 
 I solve business problems through functional code, beautiful interfaces, and a little bit of magic. I have extensive experience on the end-to-end machine learning workflow, and create fit-for-purpose solutions using OpenCV, Keras, TensorFlow, Pandas, and Scikit-learn.
 
-### Companies I've worked for
+### Certifications
+<img src='https://github.com/epanganiban/epanganiban/blob/master/assets/certifications.png' style='width:100%' />
+
+### Companies
 <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/companies.png' style='width:100%' />
 
 <!--
