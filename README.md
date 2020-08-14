@@ -9,7 +9,9 @@ I solve business problems through functional code, beautiful interfaces, and a l
   <a title='View Credential' href='https://www.credential.net/e6ccedda-5b8d-4bc9-a22b-8086ae3dadd3'>
     <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/gcp-data-engineer.png' height='80px'/>
   </a>
-  <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/tensorflow.png' height='80px'/>
+  <a title='View Credential' href='https://www.credential.net/72a2be95-f667-48a2-828c-fc74a0fc2083'>
+    <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/tensorflow.png' height='80px'/>
+  </a>
   <a title='View Credential' href='https://courses.nvidia.com/certificates/d27ea5f1d100432394227a808b474831'>
     <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/dli-cuda_c.png' height='80px'/>
   </a>
