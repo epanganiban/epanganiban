@@ -7,7 +7,7 @@ I solve business problems through functional code, beautiful interfaces, and a l
 ### Projects
 <div style='display:inline'>
   <a title='routr'>
-    <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/routr.jpg' height='280px'/>
+    <img src='https://github.com/epanganiban/epanganiban/blob/master/assets/routr.jpg' width='400px'/>
   </a>
 </div>
 
